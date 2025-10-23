@@ -1,2 +1,2 @@
-# See presentation and thesis
+# Advised by Prof. Scott Weinstein.
 Also see a fun quantitative extension of measure theory concept in a visualization of iterative algorithm dynamics: https://github.com/norahty/inpca-learning-geometry
