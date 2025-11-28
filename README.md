@@ -19,9 +19,9 @@ This repo hosts the materials for my undergraduate thesis in mathematical logic 
 ## Overview
 
 Reverse mathematics analyzes which subsystems of second-order arithmetic are exactly strong enough to prove given theorems. A central part of this landscape is the chain
-\[
+$\[
 \mathrm{RCA} < \mathrm{WWKL} < \mathrm{WKL},
-\]
+\]$
 where RCA formalizes computable mathematics, WWKL brings in a measure-theoretic version of weak König’s lemma, and WKL corresponds to the usual compactness-style weak König’s lemma.
 
 This thesis gives an expository but detailed proof that the hierarchy above is strict. On the **RCA < WWKL** side, I develop the background in computability, Turing degrees, and algorithmic randomness needed to show that WWKL proves the existence of Martin-Löf random reals in certain positive-measure Π\(^0_1\) classes, whereas RCA cannot. On the **WWKL < WKL** side, I present the Yu–Simpson construction of an ω-model that satisfies WWKL yet fails WKL, via a carefully built Turing ideal closed under randomness extensions.
